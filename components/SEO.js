@@ -159,6 +159,7 @@ const SEO = props => {
       <meta name='twitter:description' content={description} />
       <meta name='twitter:image' content={image} />
       <meta name='twitter:image:alt' content={title} />
+      <link rel="canonical" href="{url}">
 
       <link rel='icon' href={BLOG_FAVICON} />
 
