@@ -1,0 +1,17 @@
+# robots.txt for https://pips-answer.com/
+
+User-agent: *
+Allow: /
+Disallow: /rss/
+Disallow: /feed/
+Disallow: /atom.xml
+Disallow: /feed.xml
+Disallow: /rss.xml
+Disallow: /api/
+Disallow: /*.json$
+
+# Allow search engines to index sitemap
+Sitemap: https://pips-answer.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
