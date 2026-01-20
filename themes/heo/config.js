@@ -18,7 +18,10 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
 
-  HEO_HERO_TITLE_1: 'pips-answer.com',
+  HEO_HERO_TITLE_1: 'Pips Answer',
+  HERO_TITLE_4: '',
+  HERO_TITLE_5: 'Crossclimb Answer Today',
+  HERO_TITLE_LINK: 'https://pips-answer.com/linkedin-crossclimb-answer-today',
 
   HEO_HERO_TITLE_LINK: 'https://pips-answer.com',
   // 英雄区遮罩文字
