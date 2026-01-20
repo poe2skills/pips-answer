@@ -18,12 +18,12 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
 
-  HEO_HERO_TITLE_1: 'Pips Answer',
+  HEO_HERO_TITLE_1: 'Crossclimb Answer',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: 'Crossclimb Answer Today',
-  HERO_TITLE_LINK: 'https://pips-answer.com/linkedin-crossclimb-answer-today',
+  HEO_HERO_TITLE_5: 'Pips Answer Today',
+  HERO_TITLE_LINK: 'https://pips-answer.com/pips-answer-today',
 
-  HEO_HERO_TITLE_LINK: 'https://pips-answer.com/linkedin-crossclimb-answer-today',
+  HEO_HERO_TITLE_LINK: 'https://pips-answer.com/pips-answer-today',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'pips answer today',
 
@@ -35,7 +35,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: 'pips answer',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
+  HERO_RECOMMEND_COVER: 'https://r2.zestygen.com/effects/image%20(1).png', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
@@ -58,35 +58,35 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      title_1: 'pips answer',
+      img_1: '/images/heo/1.webp',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'pips answer',
+      img_2: '/images/heo/1.webp',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
-      color_1: '#57b6e6',
-      title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      title_1: 'commliber',
+      img_1: '/images/heo/2.webp',
+      color_1: '#coomliber',
+      title_2: 'commliber',
+      img_2: '/images/heo/2.webp',
       color_2: '#4082c3'
     },
     {
-      title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      title_1: 'zip answer',
+      img_1: '/images/heo/3.webp',
       color_1: '#ffffff',
-      title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      title_2: 'zip answer',
+      img_2: '/images/heo/3.webp',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'queens answer',
+      img_1: '/images/heo/4.webp',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'queens answer',
+      img_2: '/images/heo/4.webp',
       color_2: '#8f55ba'
     }
   ],
