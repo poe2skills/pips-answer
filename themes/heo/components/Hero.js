@@ -70,7 +70,7 @@ function Banner(props) {
   function handleClickBanner() {
     const randomIndex = Math.floor(Math.random() * allNavPages.length)
     const randomPost = allNavPages[randomIndex]
-    router.push(`${siteConfig('SUB_PATH', '')}/${randomPost?.slug}`)
+    router.push(`${siteConfig('SUB_PATH', '')}/pips-answer-today`)
   }
 
   // 遮罩文字
